@@ -51,3 +51,21 @@ print(f"my_number is not my_new_number es {my_number is not my_new_number}")
 print(f"'u' in 'mouredv' = {'u' in 'mouredv'}") 
 print(f"'b' not in 'mouredv' = {'b' not in 'mouredv'}") 
 
+#operadores de bit
+a = 10 # 1010
+b = 3 # 0011
+print("AND: 10 & 3 = {10 & 3}")
+print("OR: 10 | 3 = {10 | 3}")
+print("XOR: 10 ^ 3 = {10 ^ 3}")
+print("NOT: -10 = {10}")
+
+
+
+
+
+
+
+
+
+
+
