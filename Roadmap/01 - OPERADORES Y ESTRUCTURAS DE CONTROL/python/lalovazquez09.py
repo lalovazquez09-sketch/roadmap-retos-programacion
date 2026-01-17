@@ -40,3 +40,14 @@ print(my_number)
 my_number **= 5 #exponente y asignación
 print(my_number)
 my_number //= 5 #división entera y asignación
+print(my_number)
+
+#operadores de identidad
+my_new_number = my_number
+print(f"my_number is my_new_number es {my_number is my_new_number}")
+print(f"my_number is not my_new_number es {my_number is not my_new_number}")
+
+#operadores de pertenencia
+print(f"'u' in 'mouredv' = {'u' in 'mouredv'}") 
+print(f"'b' not in 'mouredv' = {'b' not in 'mouredv'}") 
+
